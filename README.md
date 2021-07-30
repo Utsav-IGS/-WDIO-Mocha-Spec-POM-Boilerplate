@@ -8,5 +8,9 @@ A simple and pre-configured WebdriverIO setup with pageobject-model, mocha frame
     git remote rm origin
     ```
 3. Change the file name and git repository and other details in package.json as needed.
-4. Happy Coding and Testing! :smiley:
+4. Run the following command to install all the modules
+    ```
+    npm install
+    ```
+5. Happy Coding and Testing! :smiley:
 
